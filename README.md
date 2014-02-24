@@ -3,7 +3,9 @@ MAMA
 
 data mining engine and  research for BIGMAMA
 
-# Algorithms
+# General Collaborative Filtering and Collective Intelligence
+
+# Algorithms in Mahout
 ## Classification
 
 ### Logistic Regression (SGD)
